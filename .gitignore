@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+*.so
+.DS_Store
+Thumbs.db
+*.zip
+*.tar.gz
+storage/
+.cache/
+.history/
+.idea/
+.vscode/
+*.swp
+*.swo
+markor/
+*.log
+*.orig
